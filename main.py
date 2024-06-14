@@ -95,7 +95,7 @@ class Game:
     def __init__(self):
 
         pygame.init()
-        pygame.display.set_caption("Maccarini Advocacia Empresarial")
+        pygame.display.set_caption("Classic Snake Game")
 
         pygame.mixer.init()
         self.play_background_music()
