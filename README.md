@@ -86,5 +86,5 @@ Dynamically scaling game speed as snake grows
 
  Improve art assets and animations
 
-✍️ Author
+## ✍️ Author
 André Maccarini
