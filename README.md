@@ -29,7 +29,7 @@ cd classic-snake-game-python
 pip install pygame
 
 # Run the game
-python snake.py
+python main.py
 ```
 
 ⚠️ Make sure the resources/ folder is in the same directory, and includes:
